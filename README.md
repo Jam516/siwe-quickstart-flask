@@ -1,4 +1,4 @@
-NiftyTracker
+siwe-quickstart-flask
 -----
 
 ### Introduction
@@ -39,7 +39,7 @@ npm run dev
 ```
 
 ### Deploy to Heroku
-**TODO**
+Coming Soon
 
 ### TODOs
 - logout button
